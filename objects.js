@@ -1,6 +1,6 @@
 var playlist = {
-  The XX: 'On Hold',
-  The Decemberists: 'I will follow you into the dark'
+  "The XX": 'On Hold',
+  "The Decemberists": 'I will follow you into the dark'
 }
 
 function updatePlaylist (playlist, MajorLazer, LeanOn) {
