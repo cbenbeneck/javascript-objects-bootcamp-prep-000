@@ -8,3 +8,7 @@ function updatePlaylist (playlist, MajorLazer, LeanOn) {
   
   return playlist
 }
+
+function removeFromPlaylist(playlist,MajorLazer) {
+  delete playlist.MajorLazer;
+}
