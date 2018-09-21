@@ -1,6 +1,6 @@
 playlist = {
-  The XX: 'On Hold'
-  The Decemberists: 'I will follow you into the dark'
+  TheXX: 'On Hold',
+  TheDecemberists: 'I will follow you into the dark'
 }
 
 
