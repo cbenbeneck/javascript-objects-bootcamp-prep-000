@@ -9,6 +9,6 @@ function updatePlaylist (playlist, MajorLazer, LeanOn) {
   return playlist
 }
 
-function removeFromPlaylist(playlist,MajorLazer) {
-  delete playlist.MajorLazer;
+function removeFromPlaylist(playlist,Slowdive) {
+  delete playlist.Slowdive;
 }
