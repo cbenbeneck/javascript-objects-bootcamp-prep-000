@@ -3,4 +3,8 @@ var playlist = {
   TheDecemberists: 'I will follow you into the dark'
 }
 
-function updatePlaylist (playlist, MajorLazer, )
+function updatePlaylist (playlist, MajorLazer, 'Lean On') {
+  playlist[MajorLazer] = 'Lean On'
+  
+  return playlist
+}
