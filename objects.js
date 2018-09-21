@@ -3,4 +3,4 @@ var playlist = {
   TheDecemberists: 'I will follow you into the dark'
 }
 
-
+function updatePlaylist (playlist, )
