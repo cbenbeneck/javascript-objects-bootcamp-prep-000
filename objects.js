@@ -4,7 +4,7 @@ var playlist = {
 }
 
 function updatePlaylist (playlist, MajorLazer, LeanOn) {
-  playlist[MajorLazer] = 'LeanOn'
+  playlist[MajorLazer] = 'Lean On'
   
   return playlist
 }
